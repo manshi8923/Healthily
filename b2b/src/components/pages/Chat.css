@@ -1,0 +1,34 @@
+.box{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 200px;
+}
+.heading{
+    margin-bottom: 10px;
+}
+.inputs label{
+    font-size: 18px;
+    margin-top: 10px;
+}
+.inputs input{
+    margin-top: -30px;
+}
+.btns{
+    display: flex;
+    justify-content: space-evenly;
+}
+.next{
+    padding: 12px 20px;
+    border: none;
+    color: black;
+    background-color: orange;
+    border-radius: 12px;
+    font-size: 20px;
+}
+.prev{
+    background-color: white;
+    border: none;
+}
